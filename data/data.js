@@ -82,7 +82,7 @@ let page = {
   //  - italian
   //  - catalan
   //  - french
-  theme: "nightsky"
+  theme: "cutekitty"
   // ^ themes suported:
   //  - nightsky (default)
   //  - sunset
